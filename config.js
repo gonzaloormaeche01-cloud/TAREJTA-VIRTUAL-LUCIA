@@ -6,7 +6,7 @@ window.CARD = {
   role:     "Team Leader · I+D+i + Ayudas",
   tagline:  "Leyton · I+D+i",
   initials: "LG",                          // se muestra si no hay foto
-  photo:    "fotos/lucia.jpg",           // sube tu foto a fotos/gonzalo.jpg (si no existe, se ven las iniciales)
+  photo:    "fotos/lucia.jfif",          // foto de Lucía (si no existe, se ven las iniciales)
   logo:     "fotos/leyton-logo.png",       // logo de empresa en la parte superior ("" para ocultar)
 
   bio:      "Team Leader de I+D+i en Leyton. Ayudo a las empresas a impulsar sus mejoras internas o inversiones y las transformo en retorno fiscal",
@@ -14,7 +14,7 @@ window.CARD = {
   website:  "https://leyton.com/es/financiacion",
 
   // URL pública de ESTA tarjeta (la del QR). Cámbiala si publicas en otra dirección.
-  cardUrl:  "https://gonzaloormaeche01-cloud.github.io/TARJETA-VIRTUAL-GONZALO/",
+  cardUrl:  "https://gonzaloormaeche01-cloud.github.io/tarejta-virtual-lucia/",
   qrImage:  "fotos/qr.png",                // imagen del código QR
 
   // Contacto

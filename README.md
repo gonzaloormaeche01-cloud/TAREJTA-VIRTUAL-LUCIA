@@ -1,4 +1,4 @@
-# 💳 Tarjeta Virtual — Gonzalo Ormaeche
+# 💳 Tarjeta Virtual — Lucía García Martín-Doimeadios
 
 Tarjeta de presentación digital tipo **app** (PWA). Se abre en el móvil desde el
 navegador y se puede **guardar en la pantalla de inicio** con su propio icono,
