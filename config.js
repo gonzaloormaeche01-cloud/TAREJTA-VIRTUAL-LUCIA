@@ -7,7 +7,7 @@ window.CARD = {
   tagline:  "Leyton · I+D+i",
   initials: "LG",                          // se muestra si no hay foto
   photo:    "fotos/lucia.jfif",          // foto de Lucía (si no existe, se ven las iniciales)
-  logo:     "fotos/leyton-logo.png",       // logo de empresa en la parte superior ("" para ocultar)
+  logo:     "fotos/leyton-logo-white.png", // logo transparente (texto blanco) para el fondo oscuro
 
   bio:      "Team Leader de I+D+i en Leyton. Ayudo a las empresas a impulsar sus mejoras internas o inversiones y las transformo en retorno fiscal",
   location: "España",
